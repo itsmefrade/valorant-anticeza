@@ -13,3 +13,4 @@ baslat.py dosyasını çalıştırın.
 
 İşte bu kadar hayırlı olsun.
 
+Not: bu kodu yapabildiğim için hawrika dünyanın en iyi profeyşınıl kodırı benim artık. 
