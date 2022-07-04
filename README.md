@@ -4,7 +4,12 @@ Dikkat: Kendinize ve ailenize edilecek küfürlerden firmamız sorumlu değildir
 
 Başlamadan önce;
 Pythonu [buradan](https://www.python.org/downloads/) indirin.
+
 İndikten sonra bu 3 dosyayı bir klasöre atın.
+
 pack.bat dosyasını çalıştırın.
+
 baslat.py dosyasını çalıştırın.
+
 İşte bu kadar hayırlı olsun.
+
