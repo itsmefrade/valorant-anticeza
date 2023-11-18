@@ -28,6 +28,5 @@ def cl():
     pyag.click(1000,500) # Monitörünüzün boyutuna bağlı rastgele bir posizyon seçin.
     time.sleep(15)  # kaç saniyede bir vursun? 
     cl() # fonksiyonu tekrar çağırıyoruz tekrar etmesi için
-#bu kadar
 
 cl()
