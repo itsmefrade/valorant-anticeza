@@ -9,6 +9,6 @@ pack.bat dosyasını çalıştırın.
 
 baslat.py dosyasını çalıştırın.
 
-İşte bu kadar hayırlı olsun.
+İşte bu kadar tebrikler.
 
 Not: bu kodu yapabildiğim için hawrika dünyanın en iyi profeyşınıl kodırı benim artık. 
